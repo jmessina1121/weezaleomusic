@@ -68,4 +68,12 @@ li a {
     border-radius: 25px;
     background: rgba(255, 255, 255, 0.7);
 }*/
-
+nav {
+    display: inline-block;
+    margin: 30px auto 5px;
+    height: 49px;
+    overflow: hidden;
+    background: #000;
+    border-radius: 10px;
+    position: relative;
+}
