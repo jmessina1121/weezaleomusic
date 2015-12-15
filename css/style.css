@@ -59,19 +59,19 @@ ul {
     padding: 0;
     overflow: hidden;
     border-radius: 25px;
-    color: white;
+    
 }
 
 li {
     float: left;
     border-radius: 25px;
-    color: white;
+    
 }
 
 li a {
     display: block;
     padding: 8px;
-    background-color: black;
+    
     color: white;
 
 }
