@@ -24,3 +24,11 @@ a{
     float: left;
     
 }
+
+.colw-200{
+    width: 200px
+    margin-right: 50px;
+}
+.float-l{
+    float:left;
+}
