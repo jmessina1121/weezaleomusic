@@ -65,14 +65,14 @@ ul {
 li {
     float: left;
     border-radius: 25px;
-    
+    padding-right: 7em;
 }
 
 li a {
     display: block;
     padding: 8px;
-    
     color: white;
+    font-family: arial;
 
 }
 
