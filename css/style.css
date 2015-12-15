@@ -32,6 +32,9 @@ a{
 .float-l{
     float:left;
 }
+.float-r{
+    float:right;
+}
 
 p{
     clear: both;
