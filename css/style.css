@@ -47,7 +47,10 @@ p{
     font-family: Jellyka Delicious Cake;
 
 }
-
+/*navigation*/ 
+.nav{
+    text-align: center;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -62,5 +65,6 @@ li {
 li a {
     display: block;
     padding: 8px;
-    background-color: #dddddd;
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.7);
 }
