@@ -58,7 +58,7 @@ ul {
     padding: 0;
     overflow: hidden;
     border-radius: 25px;
-    position fixed
+    position: fixed;
     
 }
 
